@@ -7,3 +7,6 @@ This GPA Calculator created with Excel, it helps to student know that how much m
 * Input Validation
 * Automatic result indicators (Pass, Failed)
 * Easy customizing
+
+## Screenshot
+![Screen Shot](ScreenShot.png?raw=true "Screen Shot")
