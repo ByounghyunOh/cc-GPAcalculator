@@ -1,5 +1,5 @@
 # GPA Calculator
-This GPA Calculator created with Excel, it helps to student know that how much more minimum percentage grade need to their final graduating GPA for the Confederation College Computer Programmer Diploma program with outstanding course to graduate
+This calculator helps students to know how much more minimum percentage grade they need to add onto their final graduating GPA for graduation.
 
 ## Features
 * 100% Excel functions
